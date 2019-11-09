@@ -7,6 +7,7 @@ https://github.com/aaron-siegel/puzzlecad
 
 # Piece view from OpenSCAD
 ![OpenSCAD view](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftPuzzle.png)
+![Chalcraft Pieces STL](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftChain.stl)
 
 # Photos of assembled torus and original
 ![Chalcraft Torus 1](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftTorus1.jpg)
