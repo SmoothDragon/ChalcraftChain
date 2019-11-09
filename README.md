@@ -4,7 +4,13 @@ A torus made from pieces that are the union of cubes. 5 pairs are needed to buil
 # Piece view from OpenSCAD
 ![OpenSCAD view](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftPuzzle.png)
 # Piece pair to print [View STL](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftChain.stl)
-Print five of the above pairs to construct the torus.
+Also hosted at [Thingiverse](https://www.thingiverse.com/thing:3966355)
+
+# Construction
+Print five pairs to construct the torus.
+Overlay mirror image pieces and then insert the final cube to lock into place.
+The pattern will wrap around into a torus.
+I needed to use needle nose pliers to squeeze the final locking cubes into place.
 
 # Photos of assembled torus and original
 ![Chalcraft Torus 1](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftTorus1.jpg)
