@@ -2,7 +2,7 @@
 A torus made from pieces that are the union of cubes. 5 pairs are needed to build the torus.
 
 # Piece view from OpenSCAD
-![OpenSCAD view](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftPuzzle.png)
+![OpenSCAD view](raw/ChalcraftPuzzle.png)
 # Piece pair to print [View STL](https://github.com/SmoothDragon/ChalcraftChain/blob/master/ChalcraftChain.stl)
 Also hosted at [Thingiverse](https://www.thingiverse.com/thing:3966355)
 
